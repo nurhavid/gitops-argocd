@@ -14,7 +14,7 @@ spec:
         app: example
     spec:
       containers:
-      - image: nurhavid/example:1671075444
+      - image: nurhavid/example:1671081928
         name: example
         ports:
         - containerPort: 8000
