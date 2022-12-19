@@ -14,7 +14,7 @@ spec:
         app: example
     spec:
       containers:
-      - image: nurhavid/example:1671081928
+      - image: gcr.io/vast-fuze-308111/example:e33e1fa
         name: example
         ports:
         - containerPort: 8000
